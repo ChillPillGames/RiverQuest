@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/_Refactored Code/TriggerChecker.cs">
+    <Files>
+      <File FileName="../Auto Johnny/Assets/Scripts/_Refactored Code/PathNodesManager.cs" Line="118" Column="2" />
+      <File FileName="../Auto Johnny/Assets/Scripts/_Refactored Code/VehicleSteer.cs" Line="276" Column="31" />
+      <File FileName="../Auto Johnny/Assets/Scripts/_Refactored Code/VehicleDynamics.cs" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/_Refactored Code/PathNodesManager.cs" Line="80" Column="89" />
+      <File FileName="Assets/Scripts/_Refactored Code/Editor/PathNodeManagerEditor.cs" Line="169" Column="1" />
+      <File FileName="Assets/Scripts/_Refactored Code/VehicleDynamics.cs" Line="45" Column="15" />
+      <File FileName="Assets/Scripts/_Refactored Code/VehicleOA.cs" Line="287" Column="6" />
+      <File FileName="Assets/Scripts/_Refactored Code/VehicleSteer.cs" Line="254" Column="3" />
+      <File FileName="Assets/Scripts/_Refactored Code/TriggerChecker.cs" Line="9" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sushil/Documents/Auto Johnny/Assets/Scripts/_Refactored Code/VehicleSteer.cs" line="262" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

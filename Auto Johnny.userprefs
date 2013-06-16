@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\_Refactored Code\VehicleOA.cs">
+    <Files>
+      <File FileName="Assets\Scripts\_Refactored Code\VehicleProgress.cs" Line="147" Column="3" />
+      <File FileName="Assets\Scripts\_Refactored Code\RaceLapAndFinishManager.cs" Line="19" Column="5" />
+      <File FileName="Assets\Scripts\_Refactored Code\VehicleDynamics.cs" Line="37" Column="26" />
+      <File FileName="Assets\Scripts\_Refactored Code\PathNodesManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_Refactored Code\VehicleRubberBandBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_Refactored Code\VehicleOA.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
