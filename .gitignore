@@ -91,6 +91,10 @@ AppPackages/
 # Unity
 Library/
 Temp/
+.DS_Store
+*.pidb
+build
+
 
 # Others
 [Bb]in
