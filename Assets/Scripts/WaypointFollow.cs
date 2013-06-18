@@ -59,5 +59,17 @@ public class WaypointFollow : MonoBehaviour
 			currentWP = continuousWaypoints[currentWPCount];
 		}
 		
+		//var acc = Input.acceleration.x;
+		var acc = Input.GetAxis("Horizontal");
+		if(acc > 0.1)
+		{
+		}
+		else if(acc < -0.1)
+		{
+		}
+		else
+		{
+		}
+		
 	}
 }
